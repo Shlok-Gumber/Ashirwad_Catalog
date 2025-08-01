@@ -1,14 +1,11 @@
 [
   {
     "name": "Product 1",
-    "price": "₹100",
-    "description": "This is product 1",
-    "images": ["product1_img1.webp", "product1_img2.webp"]
-  },
-  {
-    "name": "Product 2",
-    "price": "₹200",
-    "description": "This is product 2",
-    "images": ["product2_img1.webp"]
+    "price": 100,
+    "description": "High quality product",
+    "images": [
+      "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product2_1.webp",
+      "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product2_2.webp"
+    ]
   }
 ]
