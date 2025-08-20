@@ -16,15 +16,5 @@
     "images": [
       "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product1_img1.webp"
     ]
-  },
-
-{
-    "name": "Product 3",
-    "price": 100,
-    "description": "High quality product",
-    "images": [
-      "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product1_img1.webp"
-    ]
   }
-
 ]
