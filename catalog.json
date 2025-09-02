@@ -6,8 +6,7 @@
     "images": [
       "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product2_img1.webp",
       "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product2_img2.webp"
-    ],
-    "unit": "dz."
+    ]
   }, 
 
 {
@@ -16,8 +15,7 @@
     "description": "High quality product",
     "images": [
       "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product1_img1.webp"
-    ],
-  "unit": "pc."
+    ]
   },
 
   {
@@ -26,8 +24,7 @@
     "description": "High quality product",
     "images": [
       "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product1_img1.webp"
-    ],
-    "unit": "dz."
+    ]
   }
   
 ]
