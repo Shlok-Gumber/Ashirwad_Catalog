@@ -1,7 +1,8 @@
 [
   {
     "name": "Product 1",
-    "price": 100,
+    "priceLocal": 100,
+    "priceNonLocal": 200,
     "description": "High quality product with excellent durability.",
     "images": [
       "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product2_img1.webp",
@@ -10,72 +11,9 @@
   },
   {
     "name": "Product 2",
-    "price": 150,
+    "priceLocal": 150,
+    "priceNonLocal": 300,
     "description": "Affordable and reliable product for everyday use.",
-    "images": [
-      "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product1_img1.webp"
-    ]
-  },
-  {
-    "name": "Product 3",
-    "price": 200,
-    "description": "Premium product designed for performance.",
-    "images": [
-      "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product1_img1.webp"
-    ]
-  },
-  {
-    "name": "Product 4",
-    "price": 250,
-    "description": "Stylish product with modern design.",
-    "images": [
-      "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product1_img1.webp"
-    ]
-  },
-  {
-    "name": "Product 5",
-    "price": 300,
-    "description": "Eco-friendly product made with sustainable materials.",
-    "images": [
-      "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product1_img1.webp"
-    ]
-  },
-  {
-    "name": "Product 6",
-    "price": 350,
-    "description": "Compact product, perfect for small spaces.",
-    "images": [
-      "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product1_img1.webp"
-    ]
-  },
-  {
-    "name": "Product 7",
-    "price": 400,
-    "description": "Durable product built to last long.",
-    "images": [
-      "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product1_img1.webp"
-    ]
-  },
-  {
-    "name": "Product 8",
-    "price": 450,
-    "description": "Lightweight and portable product for easy carrying.",
-    "images": [
-      "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product1_img1.webp"
-    ]
-  },
-  {
-    "name": "Product 9",
-    "price": 500,
-    "description": "Versatile product with multiple features.",
-    "images": [
-      "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product1_img1.webp"
-    ]
-  },
-  {
-    "name": "Product 10",
-    "price": 550,
-    "description": "Latest product with upgraded specifications.",
     "images": [
       "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product1_img1.webp"
     ]
