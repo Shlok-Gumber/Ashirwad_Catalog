@@ -17,5 +17,96 @@
     "images": [
       "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product1_img1.webp"
     ]
+  },
+  {
+    "name": "Product 3",
+    "priceLocal": 120,
+    "priceNonLocal": 250,
+    "description": "Compact and lightweight product, perfect for travel.",
+    "images": [
+      "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product1_img1.webp"
+    ]
+  },
+  {
+    "name": "Product 4",
+    "priceLocal": 180,
+    "priceNonLocal": 320,
+    "description": "Premium build quality with modern design.",
+    "images": [
+      "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product2_img1.webp"
+    ]
+  },
+  {
+    "name": "Product 5",
+    "priceLocal": 90,
+    "priceNonLocal": 180,
+    "description": "Cost-effective product with great value.",
+    "images": [
+      "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product2_img2.webp"
+    ]
+  },
+  {
+    "name": "Product 6",
+    "priceLocal": 200,
+    "priceNonLocal": 400,
+    "description": "Durable product suitable for heavy-duty usage.",
+    "images": [
+      "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product2_img1.webp",
+      "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product2_img2.webp"
+    ]
+  },
+  {
+    "name": "Product 7",
+    "priceLocal": 110,
+    "priceNonLocal": 210,
+    "description": "Stylish and practical product for daily needs.",
+    "images": [
+      "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product1_img1.webp"
+    ]
+  },
+  {
+    "name": "Product 8",
+    "priceLocal": 175,
+    "priceNonLocal": 350,
+    "description": "Energy-efficient product with long lifespan.",
+    "images": [
+      "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product2_img2.webp"
+    ]
+  },
+  {
+    "name": "Product 9",
+    "priceLocal": 95,
+    "priceNonLocal": 190,
+    "description": "Lightweight, portable, and easy to use.",
+    "images": [
+      "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product1_img1.webp"
+    ]
+  },
+  {
+    "name": "Product 10",
+    "priceLocal": 140,
+    "priceNonLocal": 280,
+    "description": "Trusted product with consistent performance.",
+    "images": [
+      "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product2_img1.webp"
+    ]
+  },
+  {
+    "name": "Product 11",
+    "priceLocal": 160,
+    "priceNonLocal": 310,
+    "description": "Modern product with advanced features.",
+    "images": [
+      "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product2_img2.webp"
+    ]
+  },
+  {
+    "name": "Product 12",
+    "priceLocal": 130,
+    "priceNonLocal": 260,
+    "description": "Reliable and efficient product for everyday tasks.",
+    "images": [
+      "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product1_img1.webp"
+    ]
   }
 ]
