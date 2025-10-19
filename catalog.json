@@ -14,5 +14,53 @@
       "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product2_img1.webp",
       "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product2_img2.webp"
     ]
+  },
+  {
+    "name": "Product 2",
+    "priceLocalforPcs": 120,
+    "priceLocalforDz": 170,
+    "priceLocalforBags": 220,
+    "priceLocalforCr": 270,
+    "priceNonLocalforPcs": 60,
+    "priceNonLocalforDz": 85,
+    "priceNonLocalforBags": 110,
+    "priceNonLocalforCr": 135,
+    "description": "Premium product with long-lasting performance.",
+    "images": [
+      "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product2_img1.webp",
+      "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product2_img2.webp"
+    ]
+  },
+  {
+    "name": "Product 3",
+    "priceLocalforPcs": 90,
+    "priceLocalforDz": 140,
+    "priceLocalforBags": 190,
+    "priceLocalforCr": 240,
+    "priceNonLocalforPcs": 45,
+    "priceNonLocalforDz": 70,
+    "priceNonLocalforBags": 95,
+    "priceNonLocalforCr": 120,
+    "description": "Affordable yet durable product for everyday use.",
+    "images": [
+      "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product2_img1.webp",
+      "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product2_img2.webp"
+    ]
+  },
+  {
+    "name": "Product 4",
+    "priceLocalforPcs": 110,
+    "priceLocalforDz": 160,
+    "priceLocalforBags": 210,
+    "priceLocalforCr": 260,
+    "priceNonLocalforPcs": 55,
+    "priceNonLocalforDz": 80,
+    "priceNonLocalforBags": 105,
+    "priceNonLocalforCr": 130,
+    "description": "Reliable product with excellent quality standards.",
+    "images": [
+      "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product2_img1.webp",
+      "https://raw.githubusercontent.com/Shlok-Gumber/Ashirwad_Catalog/master/product_images/product2_img2.webp"
+    ]
   }
 ]
